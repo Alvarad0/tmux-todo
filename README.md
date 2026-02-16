@@ -2,6 +2,9 @@
 
 A lightweight tmux todo list plugin with Markdown persistence.
 
+<img width="835" height="473" alt="image" src="https://github.com/user-attachments/assets/6e0753e0-c75f-4404-a127-9dd0764287d8" />
+
+
 ## Features
 
 - Configurable todo file path with `@todo_file`
